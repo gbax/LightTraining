@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LightWorkout</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_program_but_title">Edit workouts</string>
+    <string name="title_activity_create_program">Create workout</string>
+    <string name="manage_program_title">Managing workouts</string>
+    <string name="create_program_but_title">Add new workout</string>
+    <string name="title_activity_creating_program">Creating workout</string>
+    <string name="new_program_name_hint">Workout name</string>
+    <string name="save_new_button_title">Next</string>
+    <string name="edit_prog_list">Edit</string>
+    <string name="delete_item_but">Delete</string>
+    <string name="discription_hint">Description</string>
+    <string name="weight_label">Weight</string>
+    <string name="choose_weight_label">Choose</string>
+    <string name="write_hand_label">Write manually</string>
+    <string name="new_program_label">New workout</string>
+    <string name="title_activity_creating_exercise">Creating exercise</string>
+    <string name="title_activity_exercise_list">Exercise list</string>
+    <string name="add_exercise_btn_label">Add exercise</string>
+
+</resources>
